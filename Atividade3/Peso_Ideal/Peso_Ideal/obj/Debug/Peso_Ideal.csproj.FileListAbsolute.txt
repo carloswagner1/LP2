@@ -1,0 +1,10 @@
+C:\Users\cwrsi\source\repos\Peso_Ideal\Peso_Ideal\bin\Debug\Peso_Ideal.exe.config
+C:\Users\cwrsi\source\repos\Peso_Ideal\Peso_Ideal\bin\Debug\Peso_Ideal.exe
+C:\Users\cwrsi\source\repos\Peso_Ideal\Peso_Ideal\bin\Debug\Peso_Ideal.pdb
+C:\Users\cwrsi\source\repos\Peso_Ideal\Peso_Ideal\obj\Debug\Peso_Ideal.csprojAssemblyReference.cache
+C:\Users\cwrsi\source\repos\Peso_Ideal\Peso_Ideal\obj\Debug\Peso_Ideal.Form1.resources
+C:\Users\cwrsi\source\repos\Peso_Ideal\Peso_Ideal\obj\Debug\Peso_Ideal.Properties.Resources.resources
+C:\Users\cwrsi\source\repos\Peso_Ideal\Peso_Ideal\obj\Debug\Peso_Ideal.csproj.GenerateResource.cache
+C:\Users\cwrsi\source\repos\Peso_Ideal\Peso_Ideal\obj\Debug\Peso_Ideal.csproj.CoreCompileInputs.cache
+C:\Users\cwrsi\source\repos\Peso_Ideal\Peso_Ideal\obj\Debug\Peso_Ideal.exe
+C:\Users\cwrsi\source\repos\Peso_Ideal\Peso_Ideal\obj\Debug\Peso_Ideal.pdb
