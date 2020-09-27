@@ -1,0 +1,10 @@
+C:\Users\cwrsi\source\repos\Volume_Do_Cilindro\Volume_Do_Cilindro\bin\Debug\Volume_Do_Cilindro.exe.config
+C:\Users\cwrsi\source\repos\Volume_Do_Cilindro\Volume_Do_Cilindro\bin\Debug\Volume_Do_Cilindro.exe
+C:\Users\cwrsi\source\repos\Volume_Do_Cilindro\Volume_Do_Cilindro\bin\Debug\Volume_Do_Cilindro.pdb
+C:\Users\cwrsi\source\repos\Volume_Do_Cilindro\Volume_Do_Cilindro\obj\Debug\Volume_Do_Cilindro.csprojAssemblyReference.cache
+C:\Users\cwrsi\source\repos\Volume_Do_Cilindro\Volume_Do_Cilindro\obj\Debug\Volume_Do_Cilindro.Form1.resources
+C:\Users\cwrsi\source\repos\Volume_Do_Cilindro\Volume_Do_Cilindro\obj\Debug\Volume_Do_Cilindro.Properties.Resources.resources
+C:\Users\cwrsi\source\repos\Volume_Do_Cilindro\Volume_Do_Cilindro\obj\Debug\Volume_Do_Cilindro.csproj.GenerateResource.cache
+C:\Users\cwrsi\source\repos\Volume_Do_Cilindro\Volume_Do_Cilindro\obj\Debug\Volume_Do_Cilindro.csproj.CoreCompileInputs.cache
+C:\Users\cwrsi\source\repos\Volume_Do_Cilindro\Volume_Do_Cilindro\obj\Debug\Volume_Do_Cilindro.exe
+C:\Users\cwrsi\source\repos\Volume_Do_Cilindro\Volume_Do_Cilindro\obj\Debug\Volume_Do_Cilindro.pdb
