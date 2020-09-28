@@ -25,10 +25,10 @@ namespace Peso_Ideal
                 (double.TryParse(mskbxPesoAtual.Text, out pesoAtual)))
             {
                 if (rbtnFeminino.Checked)
-                    pesoIdeal = (62.1 * altura) - 44.7;
+                    pesoIdeal = Math.Round((62.1 * altura) - 44.7,2);
                 else
-                    pesoIdeal = (72.7 * altura) - 58;
-
+                    pesoIdeal = Math.Round((72.7 * altura) - 58,2);
+                pesoIdeal.ToString("00");
                 if (pesoAtual == pesoIdeal)
                     MessageBox.Show("Seu peso ideal é " + pesoIdeal.ToString("N2") + " Kg.\n" + "Você está com o peso ideal.", "Peso Ideal");
                 else
