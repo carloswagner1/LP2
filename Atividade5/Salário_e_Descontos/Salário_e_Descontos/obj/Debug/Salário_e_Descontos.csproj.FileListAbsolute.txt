@@ -1,0 +1,10 @@
+C:\Users\cwrsi\source\repos\Salário_e_Descontos\Salário_e_Descontos\bin\Debug\Salário_e_Descontos.exe.config
+C:\Users\cwrsi\source\repos\Salário_e_Descontos\Salário_e_Descontos\bin\Debug\Salário_e_Descontos.exe
+C:\Users\cwrsi\source\repos\Salário_e_Descontos\Salário_e_Descontos\bin\Debug\Salário_e_Descontos.pdb
+C:\Users\cwrsi\source\repos\Salário_e_Descontos\Salário_e_Descontos\obj\Debug\Salário_e_Descontos.csprojAssemblyReference.cache
+C:\Users\cwrsi\source\repos\Salário_e_Descontos\Salário_e_Descontos\obj\Debug\Salário_e_Descontos.Form1.resources
+C:\Users\cwrsi\source\repos\Salário_e_Descontos\Salário_e_Descontos\obj\Debug\Salário_e_Descontos.Properties.Resources.resources
+C:\Users\cwrsi\source\repos\Salário_e_Descontos\Salário_e_Descontos\obj\Debug\Salário_e_Descontos.csproj.GenerateResource.cache
+C:\Users\cwrsi\source\repos\Salário_e_Descontos\Salário_e_Descontos\obj\Debug\Salário_e_Descontos.csproj.CoreCompileInputs.cache
+C:\Users\cwrsi\source\repos\Salário_e_Descontos\Salário_e_Descontos\obj\Debug\Salário_e_Descontos.exe
+C:\Users\cwrsi\source\repos\Salário_e_Descontos\Salário_e_Descontos\obj\Debug\Salário_e_Descontos.pdb
