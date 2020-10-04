@@ -161,6 +161,7 @@
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(580, 27);
             this.txtNome.TabIndex = 9;
+            this.txtNome.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtNome_KeyPress);
             // 
             // gbxSexo
             // 
@@ -170,7 +171,7 @@
             this.gbxSexo.Location = new System.Drawing.Point(451, 60);
             this.gbxSexo.Name = "gbxSexo";
             this.gbxSexo.Size = new System.Drawing.Size(142, 79);
-            this.gbxSexo.TabIndex = 18;
+            this.gbxSexo.TabIndex = 12;
             this.gbxSexo.TabStop = false;
             this.gbxSexo.Text = "Sexo";
             // 
@@ -185,10 +186,12 @@
             this.rbtnMasculino.TabStop = true;
             this.rbtnMasculino.Text = "Masculino";
             this.rbtnMasculino.UseVisualStyleBackColor = true;
+            this.rbtnMasculino.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.rbtnMasculino_KeyPress);
             // 
             // rbtnFeminino
             // 
             this.rbtnFeminino.AutoSize = true;
+            this.rbtnFeminino.Checked = true;
             this.rbtnFeminino.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rbtnFeminino.Location = new System.Drawing.Point(28, 24);
             this.rbtnFeminino.Name = "rbtnFeminino";
@@ -197,6 +200,7 @@
             this.rbtnFeminino.TabStop = true;
             this.rbtnFeminino.Text = "Feminino";
             this.rbtnFeminino.UseVisualStyleBackColor = true;
+            this.rbtnFeminino.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.rbtnFeminino_KeyPress);
             // 
             // gbxEstadoCivil
             // 
@@ -206,7 +210,7 @@
             this.gbxEstadoCivil.Location = new System.Drawing.Point(615, 60);
             this.gbxEstadoCivil.Name = "gbxEstadoCivil";
             this.gbxEstadoCivil.Size = new System.Drawing.Size(142, 79);
-            this.gbxEstadoCivil.TabIndex = 19;
+            this.gbxEstadoCivil.TabIndex = 13;
             this.gbxEstadoCivil.TabStop = false;
             this.gbxEstadoCivil.Text = "Estado Civil";
             // 
@@ -220,6 +224,7 @@
             this.ckbxCasado.TabIndex = 1;
             this.ckbxCasado.Text = "Casado(a)";
             this.ckbxCasado.UseVisualStyleBackColor = true;
+            this.ckbxCasado.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.ckbxCasado_KeyPress);
             // 
             // ckbxSolteiro
             // 
@@ -231,6 +236,7 @@
             this.ckbxSolteiro.TabIndex = 0;
             this.ckbxSolteiro.Text = "Solteiro(a)";
             this.ckbxSolteiro.UseVisualStyleBackColor = true;
+            this.ckbxSolteiro.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.ckbxSolteiro_KeyPress);
             // 
             // btnValidar
             // 
@@ -274,6 +280,7 @@
             this.mskbxSalarioBruto.Size = new System.Drawing.Size(185, 27);
             this.mskbxSalarioBruto.TabIndex = 10;
             this.mskbxSalarioBruto.TextMaskFormat = System.Windows.Forms.MaskFormat.ExcludePromptAndLiterals;
+            this.mskbxSalarioBruto.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.mskbxSalarioBruto_KeyPress);
             // 
             // gbxDados
             // 
@@ -301,6 +308,7 @@
             this.mskbxNumeroFilhos.Name = "mskbxNumeroFilhos";
             this.mskbxNumeroFilhos.Size = new System.Drawing.Size(185, 27);
             this.mskbxNumeroFilhos.TabIndex = 11;
+            this.mskbxNumeroFilhos.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.mskbxNumeroFilhos_KeyPress);
             // 
             // gbxResultados
             // 
@@ -329,12 +337,17 @@
             // lblMensagem
             // 
             this.lblMensagem.AutoSize = true;
-            this.lblMensagem.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMensagem.Location = new System.Drawing.Point(358, 110);
+            this.lblMensagem.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.lblMensagem.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.lblMensagem.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMensagem.Location = new System.Drawing.Point(342, 110);
+            this.lblMensagem.Margin = new System.Windows.Forms.Padding(3, 1, 3, 0);
             this.lblMensagem.Name = "lblMensagem";
-            this.lblMensagem.Size = new System.Drawing.Size(84, 19);
+            this.lblMensagem.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.lblMensagem.Size = new System.Drawing.Size(0, 21);
             this.lblMensagem.TabIndex = 27;
-            this.lblMensagem.Text = "Mensagem";
+            this.lblMensagem.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lblMensagem.UseCompatibleTextRendering = true;
             // 
             // mskbxAliquotaIRPF
             // 
@@ -342,7 +355,7 @@
             this.mskbxAliquotaIRPF.Location = new System.Drawing.Point(489, 70);
             this.mskbxAliquotaIRPF.Name = "mskbxAliquotaIRPF";
             this.mskbxAliquotaIRPF.Size = new System.Drawing.Size(141, 27);
-            this.mskbxAliquotaIRPF.TabIndex = 26;
+            this.mskbxAliquotaIRPF.TabIndex = 0;
             // 
             // mskbxAliquotaINSS
             // 
@@ -350,7 +363,7 @@
             this.mskbxAliquotaINSS.Location = new System.Drawing.Point(489, 29);
             this.mskbxAliquotaINSS.Name = "mskbxAliquotaINSS";
             this.mskbxAliquotaINSS.Size = new System.Drawing.Size(141, 27);
-            this.mskbxAliquotaINSS.TabIndex = 16;
+            this.mskbxAliquotaINSS.TabIndex = 0;
             // 
             // mskbxSalarioLiquido
             // 
@@ -358,7 +371,7 @@
             this.mskbxSalarioLiquido.Location = new System.Drawing.Point(164, 150);
             this.mskbxSalarioLiquido.Name = "mskbxSalarioLiquido";
             this.mskbxSalarioLiquido.Size = new System.Drawing.Size(162, 27);
-            this.mskbxSalarioLiquido.TabIndex = 15;
+            this.mskbxSalarioLiquido.TabIndex = 0;
             // 
             // mskbxSalarioFamilia
             // 
@@ -366,7 +379,7 @@
             this.mskbxSalarioFamilia.Location = new System.Drawing.Point(164, 110);
             this.mskbxSalarioFamilia.Name = "mskbxSalarioFamilia";
             this.mskbxSalarioFamilia.Size = new System.Drawing.Size(162, 27);
-            this.mskbxSalarioFamilia.TabIndex = 14;
+            this.mskbxSalarioFamilia.TabIndex = 0;
             // 
             // mskbxDescontoIRPF
             // 
@@ -374,7 +387,7 @@
             this.mskbxDescontoIRPF.Location = new System.Drawing.Point(164, 70);
             this.mskbxDescontoIRPF.Name = "mskbxDescontoIRPF";
             this.mskbxDescontoIRPF.Size = new System.Drawing.Size(162, 27);
-            this.mskbxDescontoIRPF.TabIndex = 13;
+            this.mskbxDescontoIRPF.TabIndex = 0;
             // 
             // mskbxDescontoINSS
             // 
@@ -382,7 +395,7 @@
             this.mskbxDescontoINSS.Location = new System.Drawing.Point(164, 30);
             this.mskbxDescontoINSS.Name = "mskbxDescontoINSS";
             this.mskbxDescontoINSS.Size = new System.Drawing.Size(162, 27);
-            this.mskbxDescontoINSS.TabIndex = 12;
+            this.mskbxDescontoINSS.TabIndex = 0;
             // 
             // Form1
             // 
