@@ -65,6 +65,7 @@
             // rbtnFeminino
             // 
             this.rbtnFeminino.AutoSize = true;
+            this.rbtnFeminino.Checked = true;
             this.rbtnFeminino.Font = new System.Drawing.Font("Bookman Old Style", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rbtnFeminino.Location = new System.Drawing.Point(36, 34);
             this.rbtnFeminino.Name = "rbtnFeminino";
@@ -83,7 +84,6 @@
             this.rbtnMasculino.Name = "rbtnMasculino";
             this.rbtnMasculino.Size = new System.Drawing.Size(125, 25);
             this.rbtnMasculino.TabIndex = 8;
-            this.rbtnMasculino.TabStop = true;
             this.rbtnMasculino.Text = "Masculino";
             this.rbtnMasculino.UseVisualStyleBackColor = true;
             this.rbtnMasculino.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.rbtnMasculino_KeyPress);
