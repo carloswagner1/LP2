@@ -21,9 +21,17 @@ namespace Testar_Métodos
         {
             int num1 = Convert.ToInt32(txtNumero1.Text);
             int num2 = Convert.ToInt32(txtNumero2.Text);
-            Random random = new Random();
-            double r = random.Next(num1, num2);
-            MessageBox.Show(r.ToString());
+            if (num1 > num2)
+            {
+                MessageBox.Show("O primeiro número é maior que o segundo.\n" +
+                    "Insira os números na ordem correta.", "Erro!!");
+            }
+            else
+            {
+                Random random = new Random();
+                double r = random.Next(num1, num2);
+                MessageBox.Show(r.ToString());
+            }
         }
     }
 }

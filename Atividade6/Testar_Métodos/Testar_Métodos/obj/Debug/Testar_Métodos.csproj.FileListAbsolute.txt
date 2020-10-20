@@ -12,3 +12,17 @@ C:\Users\cwrsi\source\repos\Testar_Métodos\Testar_Métodos\obj\Debug\Testar_Mé
 C:\Users\cwrsi\source\repos\Testar_Métodos\Testar_Métodos\obj\Debug\Testar_Métodos.frmExercicio3.resources
 C:\Users\cwrsi\source\repos\Testar_Métodos\Testar_Métodos\obj\Debug\Testar_Métodos.frmExercicio4.resources
 C:\Users\cwrsi\source\repos\Testar_Métodos\Testar_Métodos\obj\Debug\Testar_Métodos.frmExercicio5.resources
+C:\Users\cwrsi\Desktop\LP2\Atividade6\Testar_Métodos\Testar_Métodos\bin\Debug\Testar_Métodos.exe.config
+C:\Users\cwrsi\Desktop\LP2\Atividade6\Testar_Métodos\Testar_Métodos\bin\Debug\Testar_Métodos.exe
+C:\Users\cwrsi\Desktop\LP2\Atividade6\Testar_Métodos\Testar_Métodos\bin\Debug\Testar_Métodos.pdb
+C:\Users\cwrsi\Desktop\LP2\Atividade6\Testar_Métodos\Testar_Métodos\obj\Debug\Testar_Métodos.csprojAssemblyReference.cache
+C:\Users\cwrsi\Desktop\LP2\Atividade6\Testar_Métodos\Testar_Métodos\obj\Debug\Testar_Métodos.Frm_Principal.resources
+C:\Users\cwrsi\Desktop\LP2\Atividade6\Testar_Métodos\Testar_Métodos\obj\Debug\Testar_Métodos.frmExercicio2.resources
+C:\Users\cwrsi\Desktop\LP2\Atividade6\Testar_Métodos\Testar_Métodos\obj\Debug\Testar_Métodos.frmExercicio3.resources
+C:\Users\cwrsi\Desktop\LP2\Atividade6\Testar_Métodos\Testar_Métodos\obj\Debug\Testar_Métodos.frmExercicio4.resources
+C:\Users\cwrsi\Desktop\LP2\Atividade6\Testar_Métodos\Testar_Métodos\obj\Debug\Testar_Métodos.frmExercicio5.resources
+C:\Users\cwrsi\Desktop\LP2\Atividade6\Testar_Métodos\Testar_Métodos\obj\Debug\Testar_Métodos.Properties.Resources.resources
+C:\Users\cwrsi\Desktop\LP2\Atividade6\Testar_Métodos\Testar_Métodos\obj\Debug\Testar_Métodos.csproj.GenerateResource.cache
+C:\Users\cwrsi\Desktop\LP2\Atividade6\Testar_Métodos\Testar_Métodos\obj\Debug\Testar_Métodos.csproj.CoreCompileInputs.cache
+C:\Users\cwrsi\Desktop\LP2\Atividade6\Testar_Métodos\Testar_Métodos\obj\Debug\Testar_Métodos.exe
+C:\Users\cwrsi\Desktop\LP2\Atividade6\Testar_Métodos\Testar_Métodos\obj\Debug\Testar_Métodos.pdb
