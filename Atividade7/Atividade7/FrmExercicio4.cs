@@ -55,16 +55,16 @@ namespace Atividade7
                 {
                     if (Prod >= 150 && Grat > 0)
                     {
-                        txtSalárioBruto.Text = SalBruto.ToString("N2");
+                        txtSalárioBruto.Text = SalBruto.ToString("C2");
                     }
                     else
                     {
-                        txtSalárioBruto.Text = ("7.000,00");
+                        txtSalárioBruto.Text = ("R$ 7.000,00");
                     }
                 }
                 else
                 {
-                    txtSalárioBruto.Text = SalBruto.ToString("N2");
+                    txtSalárioBruto.Text = SalBruto.ToString("C2");
                 }
 
             }
