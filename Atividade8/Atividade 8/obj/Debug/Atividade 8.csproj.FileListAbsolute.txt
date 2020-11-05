@@ -1,0 +1,11 @@
+C:\Users\cwrsi\source\repos\Atividade 8\Atividade 8\bin\Debug\Atividade 8.exe.config
+C:\Users\cwrsi\source\repos\Atividade 8\Atividade 8\bin\Debug\Atividade 8.exe
+C:\Users\cwrsi\source\repos\Atividade 8\Atividade 8\bin\Debug\Atividade 8.pdb
+C:\Users\cwrsi\source\repos\Atividade 8\Atividade 8\obj\Debug\Atividade 8.csprojAssemblyReference.cache
+C:\Users\cwrsi\source\repos\Atividade 8\Atividade 8\obj\Debug\Atividade_8.frmAtividade8.resources
+C:\Users\cwrsi\source\repos\Atividade 8\Atividade 8\obj\Debug\Atividade_8.Properties.Resources.resources
+C:\Users\cwrsi\source\repos\Atividade 8\Atividade 8\obj\Debug\Atividade 8.csproj.GenerateResource.cache
+C:\Users\cwrsi\source\repos\Atividade 8\Atividade 8\obj\Debug\Atividade 8.csproj.CoreCompileInputs.cache
+C:\Users\cwrsi\source\repos\Atividade 8\Atividade 8\obj\Debug\Atividade 8.exe
+C:\Users\cwrsi\source\repos\Atividade 8\Atividade 8\obj\Debug\Atividade 8.pdb
+C:\Users\cwrsi\source\repos\Atividade 8\Atividade 8\obj\Debug\Atividade_8.frmExercicio7.resources
