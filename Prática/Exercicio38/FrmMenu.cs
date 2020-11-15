@@ -34,41 +34,15 @@ namespace Prática
 
         private void exercício37ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            double[] vetor1 = new double[10];
-            double[] vetor2 = new double[10];
+            Form fc = Application.OpenForms["frmExercicio37"];
 
-            string auxiliar1 = "";
-            string auxiliar2 = "";
+            if (fc != null)
+                fc.Close();
 
-            for (var i = 0; i < vetor1.Length; i++)
-            {
-                auxiliar1 = Interaction.InputBox("Digite o número " + (i + 1).ToString(),
-                "Entrada de Dados");
-
-                if (double.TryParse(auxiliar1, out vetor1[i]))
-                {
-                    if (i % 2 == 0)
-                        vetor2[i] = vetor1[i] * 5;
-                    else
-                        vetor2[i] = vetor1[i] + 5;
-                }
-                else
-                {
-                    MessageBox.Show("Número Inválido");
-                    i--;
-                }
-            }
-            auxiliar1 = "";
-            auxiliar2 = "";
-
-            for (var i = 0; i < vetor1.Length; i++)
-            {
-                auxiliar1 += " " + vetor1[i];
-                auxiliar2 += " " + vetor2[i];
-            }
-
-            MessageBox.Show(auxiliar1 + "\n", "Matriz 1");
-            MessageBox.Show(auxiliar2 + "\n", "Matriz 2");
+            frmExercicio37 FrmExercicio37 = new frmExercicio37();
+            FrmExercicio37.MdiParent = this;
+            FrmExercicio37.WindowState = FormWindowState.Maximized;
+            FrmExercicio37.Show();
         }
 
         private void exercício38ToolStripMenuItem_Click(object sender, EventArgs e)
