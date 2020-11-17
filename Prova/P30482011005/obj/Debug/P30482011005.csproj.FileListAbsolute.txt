@@ -1,0 +1,10 @@
+C:\Users\cwrsi\source\repos\P30482011005\P30482011005\bin\Debug\P30482011005.exe.config
+C:\Users\cwrsi\source\repos\P30482011005\P30482011005\bin\Debug\P30482011005.exe
+C:\Users\cwrsi\source\repos\P30482011005\P30482011005\bin\Debug\P30482011005.pdb
+C:\Users\cwrsi\source\repos\P30482011005\P30482011005\obj\Debug\P30482011005.csprojAssemblyReference.cache
+C:\Users\cwrsi\source\repos\P30482011005\P30482011005\obj\Debug\P30482011005.Properties.Resources.resources
+C:\Users\cwrsi\source\repos\P30482011005\P30482011005\obj\Debug\P30482011005.csproj.GenerateResource.cache
+C:\Users\cwrsi\source\repos\P30482011005\P30482011005\obj\Debug\P30482011005.csproj.CoreCompileInputs.cache
+C:\Users\cwrsi\source\repos\P30482011005\P30482011005\obj\Debug\P30482011005.exe
+C:\Users\cwrsi\source\repos\P30482011005\P30482011005\obj\Debug\P30482011005.pdb
+C:\Users\cwrsi\source\repos\P30482011005\P30482011005\obj\Debug\P30482011005.frmAvaliacao.resources
